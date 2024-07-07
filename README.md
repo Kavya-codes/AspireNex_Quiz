@@ -1,4 +1,4 @@
-**AspireNex Quiz**
+**AspireNex Quiz - Task 3**
 
 AspireNex Quiz is a MERN stack-based online quiz application for creating and managing quizzes.
 
